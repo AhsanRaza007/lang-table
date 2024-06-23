@@ -1,0 +1,12 @@
+{
+    "HOME": {
+      "TITLE": "Bonjour Angular !",
+      "BROWSER_PREF": "Navigateur préférence: {{ value }}",
+      "TODAYS_DATE": "La date d'aujourd'hui",
+      "A_NUMBER": "Un numéro"
+    },
+    "HOME2": {
+      "hello": "hello world"
+    }
+  }
+  
